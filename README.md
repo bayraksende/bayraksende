@@ -1,7 +1,7 @@
 ### BayrakSende CTF
 
 
-Inter-high school CTF competition based in Turkiye
+Inter-high school Capture the Flag competition based in Turkiye
 
 
 
